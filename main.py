@@ -3,7 +3,7 @@ from soco.events import event_listener
 from queue import Empty
 
 
-def main_dev():
+def main():
     device = discover().pop()
     subscription = device.renderingControl.subscribe()
 
