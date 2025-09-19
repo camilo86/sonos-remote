@@ -8,4 +8,5 @@ dependencies = [
     "gpiozero>=2.0.1",
     "pigpio>=1.78",
     "python-dotenv>=1.1.1",
+    "soco>=0.30.11",
 ]
